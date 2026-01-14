@@ -1,4 +1,4 @@
-# How to change the itemssource of detailsview at runtime in WinUI DataGrid
+# How to Change the ItemsSource of DetailsView at Runtime in WinUI DataGrid?
 
 This example describes how to change the itemssource of detailsview at runtime in [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid).
 
